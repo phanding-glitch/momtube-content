@@ -1,0 +1,830 @@
+{
+  "schemaVersion": 2,
+  "country": "VN",
+  "updatedAt": "2026-11-22",
+  "status": "published",
+  "categories": [
+    {
+      "id": "science",
+      "name": {
+        "vi": "Khoa học & Tự nhiên",
+        "en": "Science & Nature"
+      }
+    },
+    {
+      "id": "language",
+      "name": {
+        "vi": "Tiếng Anh",
+        "en": "Languages"
+      }
+    },
+    {
+      "id": "math",
+      "name": {
+        "vi": "Toán & Tư duy",
+        "en": "Math & Logic"
+      }
+    },
+    {
+      "id": "history-geo",
+      "name": {
+        "vi": "Lịch sử & Địa lý",
+        "en": "History & Geography"
+      }
+    },
+    {
+      "id": "stories",
+      "name": {
+        "vi": "Hoạt hình & Truyện",
+        "en": "Cartoons & Stories"
+      }
+    },
+    {
+      "id": "music",
+      "name": {
+        "vi": "Âm nhạc",
+        "en": "Music"
+      }
+    },
+    {
+      "id": "crafts",
+      "name": {
+        "vi": "Thủ công & Sáng tạo",
+        "en": "Crafts & Making"
+      }
+    },
+    {
+      "id": "sports",
+      "name": {
+        "vi": "Thể thao & Vận động",
+        "en": "Sports & Movement"
+      }
+    },
+    {
+      "id": "other",
+      "name": {
+        "vi": "Khác",
+        "en": "Other"
+      }
+    }
+  ],
+  "items": [
+    {
+      "type": "channel",
+      "handle": "@sickscience",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "title": "Sick Science!",
+      "category": "science",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "title": "NASA",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@OperationOuch",
+      "channelId": "UCQJDFI9j8UeNoqra37p5OkA",
+      "title": "Operation Ouch",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SpanglerScienceTV",
+      "channelId": "UCA_kqRHsoKxPZ22PPkaGwjA",
+      "title": "SpanglerScienceTV",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@klt",
+      "channelId": "UC7EFWpvc1wYuUwrtZ_BLi9A",
+      "title": "KLT (Kids Learning Tube)",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@naturepbs",
+      "channelId": "UCcBp_9YPyma4c3HTadmRJ3Q",
+      "title": "Nature on PBS",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASAGoddard",
+      "channelId": "UCAY-SMFNfynqz1bdoaV8BeQ",
+      "title": "NASA Goddard",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASASpacePlace",
+      "channelId": "UCMRzqb0rmcil3OxeVFVRIMw",
+      "title": "NASA Space Place",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SanDiegoZoo",
+      "channelId": "UCC5NfQ6Mf0dq_eEwv4P_hWA",
+      "title": "San Diego Zoo",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SmithsonianChannel",
+      "channelId": "UCWqPRUsJlZaDp-PVbqEch9g",
+      "title": "Smithsonian Channel",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@MinuteEarth",
+      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "title": "MinuteEarth",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@TheDadLab",
+      "channelId": "UCc_-hy0u9-oKlNdMKHBudcQ",
+      "title": "TheDadLab",
+      "category": "science",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@brusspup",
+      "channelId": "UCeQEKFH31vvD-InkTGSvCrA",
+      "title": "Brusspup",
+      "category": "science",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@BigBangAcademyKids",
+      "channelId": "UCa1w8_QFAteJ0rSSw_FlhNw",
+      "title": "Big Bang Academy Kids",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQNDwnQlIStNF9LwoSAM7aF",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Amazing Animals",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTeMkSui3dBQGxtutuobNWi",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Things You Wanna Know",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZR-L-KtbBtm1WgPjmxiDuWi",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – How Things Work",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZSmBhS3ODPCUV1N4hDJlzhG",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Try This!",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZRYAf049X5KDkXEsD480m6J",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Solar System Videos",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTAEhV8AF4HxgT1VbFRwhQk",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Mysteries of the Human Body",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQmYcKNCBTiv2Ea64Qg0GJo",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Volcano Videos",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQ67D3cB0HVlAf3H_y8u54T",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Wacky Weather Videos",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZRJ51jNh0H_tqQpgEw1lBlg",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Robot Videos",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQGg24-GvA9T2dVVMgNh65y",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Cool Inventions Videos",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZR9Pb-iPTK3sdCySCQwoFDL",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Awesome 8",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZRLn4MKdo2StSwzRZaDsetS",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Best Job Ever",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZSj-wK7xeOgIfd0c4IOgmVq",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Mission Animal Rescue",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@BingGoLeaders",
+      "channelId": "UC7JqmPfPHcfHKN7ZOZCflKQ",
+      "title": "BingGo Leaders",
+      "category": "language",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLf4uU-X3tr5sNl9aEcKkfmZIaSztz5toF",
+      "handle": "@VUSAnhVănHộiViệtMỹ",
+      "channelId": "UCfUWwTaz_1Ticrno2ogXGUw",
+      "title": "VUS – Learn English, Use English, Speak English",
+      "category": "language",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLOK7vkmqDrZQ",
+      "handle": "@phanding",
+      "channelId": "UCA5BfalRKXOnT1SR-W7UFKQ",
+      "title": "ELSA - Speaking video",
+      "category": "language",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLi6G3vInQmPSZ2nHJ3pWAzvTPGq9i0MuU",
+      "handle": "@ELSASpeakVietnam",
+      "channelId": "UCun3m8bhrqrFieBnEYJsr0g",
+      "title": "ELSA – Học từ vựng tiếng Anh qua bài hát",
+      "category": "language",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@BritishCouncilLEKids",
+      "channelId": "UC-qWJlvaPME3MWvrY-yjXeA",
+      "title": "British Council LearnEnglish Kids",
+      "category": "language",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@WoodwardEnglish",
+      "channelId": "UC0kejkXg2LG-pFqAeWD_zLQ",
+      "title": "Woodward English",
+      "category": "language",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@FlocabularyYT",
+      "channelId": "UCOsCwMammtm9TXnE0BMbKzw",
+      "title": "Flocabulary",
+      "category": "language",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@codeorg",
+      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "title": "Code.org",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@MooMooMath",
+      "channelId": "UCE_WiQFez8FZcICpbwblyyg",
+      "title": "MooMooMath and Science",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@ThinkTwiceLtu",
+      "channelId": "UC9yt3wz-6j19RwD5m5f6HSg",
+      "title": "Think Twice",
+      "category": "math",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Hopscotchsongs",
+      "channelId": "UCgM7EYFFz_dba0OIZs5L9kg",
+      "title": "Hopscotch Songs",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQ3WjcjVq1OHxiDVgiGo4Yz",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – By the Numbers Videos",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTqq0ObY3aCKluP25ql-JLi",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Brain Magic",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@LonelyPlanet",
+      "channelId": "UCPsil91i8gN0XLIbwl3vqsw",
+      "title": "Lonely Planet",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@PBSLearningMediaORG",
+      "channelId": "UCoZCili40vUhAECOq2WzUdQ",
+      "title": "PBS LearningMedia",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@DuongDiaLy",
+      "channelId": "UCaJ6YgNkAlRsl8nWZS2sjtg",
+      "title": "Dương Địa Lý",
+      "category": "history-geo",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQjnw9HPXpeCF7m5afjcWPd",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Archaeology Videos",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTpajSmiZIgrXCy9lgTOlnO",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Destination World",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZToNm0E188I7uvtS6BFCmnJ",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – 50 Birds, 50 States",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iyxBIwWfDjXJ2JlsS7jsLQ",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 1: Tấm Cám",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2jNsV5Y8HFHzblvY5jLdrVL",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 2: Công Chúa Ngủ Trong Rừng",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2hypn2IwuJmrfFp2ac65MUt",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 3: Dế Mèn Phiêu Lưu Ký",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iR45se59xLc5bX4YH0gzXY",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 4: Cái Chum Kỳ Diệu (Sọ Dừa)",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2jLIZqSTlAC4TRIeok76lT7",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 5: Cô Bé Lọ Lem",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iBV9jAxU4s0797iAj61XJ8",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 6: Người Đẹp và Quái Vật",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2jx6rL5TyjN8Fb9rgO-awVi",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 7: Nàng Tiên Cá",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2igHjYJTBKGaApGCelGB7lX",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 8: Công Chúa Chích Chòe",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2j9tQvgvdWgEJnxAkWvUNWw",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 9: Aladin và Đủ Thứ Thần",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2g5jUqFeRrBkekfQj0HUSvg",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 10: Lee Kim Chi",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2hk-8tUcKLhhzfBEPW_Jyf2",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 11: Cậu Bé Rừng Xanh",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iYZmnMP1GyiPQQiEdzU8CV",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 12: Bạch Tuyết và 7 Chú Lùn",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2gmSJVhJJ8g8z8GqNi8gFOH",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 13: Natra",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iqMcsTIPq428CP6XrVMzby",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 16: Chuyện Thần Tiên Xứ Phù Tang",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2j25oPl8nDBT3oLiyKaS8KY",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 17: Phù Đổng Thiên Vương",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2gCcHaD12VQyjjvsndMg5Ur",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 18: Chàng Lang Thang và Nàng Tùy Tiện",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2j_epCmSjuyxxDIqyTBf7k7",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 19: Phù Thủy Lắm Chiêu",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2g3Epa5bm2eJs8hs9ReCJ6f",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 20: Chú Bé Khoai Tây",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2iUO3L50IkJeOPw7kwroEju",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 21: Võ Công Tiểu Quái",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2gLF0joXhn7P8vGGOwa5EMN",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 22: Anly và Thần Băng Giá",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLq_FeBxsPr2gwCUk_d859DM-jErz8IrRN",
+      "handle": "@HangphimtreVn",
+      "channelId": "UCA6kP0Nvy2HTnqiBKm1cXLA",
+      "title": "Ngày Xửa Ngày Xưa 23: Những Đứa Con Của Rồng",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLFk1RtAQGTYWRo1ZqNyjIvR5lVnxuFYLR",
+      "handle": "@HTVCPhimVietNam",
+      "channelId": "UC3mTT8JcFtivH6wxNyn2xJQ",
+      "title": "Chuyện Ngày Xưa (HTVC)",
+      "category": "stories",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZQsb8zuHanQRG86tbh-4020",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Explorer Academy",
+      "category": "stories",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTrN0JGL12qFvp7B4z6LC5y",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Wild Beats",
+      "category": "music",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@CookyTVVN",
+      "channelId": "UCj51IynIFwcsbREZo4oxgyw",
+      "title": "Cooky TV",
+      "category": "crafts",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Hey-clay",
+      "channelId": "UCGOvG7gyO_APfo7fm0k5Uyw",
+      "title": "HEY CLAY",
+      "category": "crafts",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@ezcraftsforkids",
+      "channelId": "UCqsXWFEFqKgDPKYXFisgGAA",
+      "title": "Easy Crafts for Kids",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@squashclay",
+      "channelId": "UCrIDehathksmgNEMwsLEpiQ",
+      "title": "Squash Clay",
+      "category": "crafts",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@FoodFusionKids",
+      "channelId": "UCqpsITAmYlQttezQ7puHwNQ",
+      "title": "Food Fusion Kids",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@MKDanceStudio2124",
+      "channelId": "UC2d1jXFBM2Vi0lGKklhNUKw",
+      "title": "MK Dance Studio",
+      "category": "sports",
+      "language": "vi",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Takuya_Football_Skills_Coach",
+      "channelId": "UCplP12cCtCl1uqVAMSzLjNw",
+      "title": "Takuya | Football Skills Coach",
+      "category": "sports",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@KidsBasketballTraining",
+      "channelId": "UCGg_JtthpWHx9worr5UP1Tg",
+      "title": "Kids Basketball Training",
+      "category": "sports",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "playlist",
+      "playlistId": "PLQlnTldJs0ZTGU_agkT4tuD1Svcu0thap",
+      "handle": "@natgeokids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "title": "Nat Geo Kids – Get Moving With Us!",
+      "category": "sports",
+      "language": "en",
+      "defaultSelected": false
+    }
+  ]
+}

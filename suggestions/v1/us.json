@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 2,
+  "country": "US",
+  "updatedAt": "2026-11-22",
+  "status": "published",
+  "categories": [
+    {
+      "id": "science",
+      "name": {
+        "vi": "Khoa học & Tự nhiên",
+        "en": "Science & Nature"
+      }
+    },
+    {
+      "id": "language",
+      "name": {
+        "vi": "Tiếng Anh",
+        "en": "Languages"
+      }
+    },
+    {
+      "id": "math",
+      "name": {
+        "vi": "Toán & Tư duy",
+        "en": "Math & Logic"
+      }
+    },
+    {
+      "id": "history-geo",
+      "name": {
+        "vi": "Lịch sử & Địa lý",
+        "en": "History & Geography"
+      }
+    },
+    {
+      "id": "stories",
+      "name": {
+        "vi": "Hoạt hình & Truyện",
+        "en": "Cartoons & Stories"
+      }
+    },
+    {
+      "id": "music",
+      "name": {
+        "vi": "Âm nhạc",
+        "en": "Music"
+      }
+    },
+    {
+      "id": "crafts",
+      "name": {
+        "vi": "Thủ công & Sáng tạo",
+        "en": "Crafts & Making"
+      }
+    },
+    {
+      "id": "sports",
+      "name": {
+        "vi": "Thể thao & Vận động",
+        "en": "Sports & Movement"
+      }
+    },
+    {
+      "id": "other",
+      "name": {
+        "vi": "Khác",
+        "en": "Other"
+      }
+    }
+  ],
+  "items": [
+    {
+      "type": "channel",
+      "handle": "@sickscience",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "title": "Sick Science!",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "title": "NASA",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@OperationOuch",
+      "channelId": "UCQJDFI9j8UeNoqra37p5OkA",
+      "title": "Operation Ouch",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SpanglerScienceTV",
+      "channelId": "UCA_kqRHsoKxPZ22PPkaGwjA",
+      "title": "SpanglerScienceTV",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@klt",
+      "channelId": "UC7EFWpvc1wYuUwrtZ_BLi9A",
+      "title": "KLT (Kids Learning Tube)",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@naturepbs",
+      "channelId": "UCcBp_9YPyma4c3HTadmRJ3Q",
+      "title": "Nature on PBS",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASAGoddard",
+      "channelId": "UCAY-SMFNfynqz1bdoaV8BeQ",
+      "title": "NASA Goddard",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@NASASpacePlace",
+      "channelId": "UCMRzqb0rmcil3OxeVFVRIMw",
+      "title": "NASA Space Place",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SanDiegoZoo",
+      "channelId": "UCC5NfQ6Mf0dq_eEwv4P_hWA",
+      "title": "San Diego Zoo",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@SmithsonianChannel",
+      "channelId": "UCWqPRUsJlZaDp-PVbqEch9g",
+      "title": "Smithsonian Channel",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@MinuteEarth",
+      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "title": "MinuteEarth",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@TheDadLab",
+      "channelId": "UCc_-hy0u9-oKlNdMKHBudcQ",
+      "title": "TheDadLab",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@brusspup",
+      "channelId": "UCeQEKFH31vvD-InkTGSvCrA",
+      "title": "Brusspup",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@BigBangAcademyKids",
+      "channelId": "UCa1w8_QFAteJ0rSSw_FlhNw",
+      "title": "Big Bang Academy Kids",
+      "category": "science",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@BritishCouncilLEKids",
+      "channelId": "UC-qWJlvaPME3MWvrY-yjXeA",
+      "title": "British Council LearnEnglish Kids",
+      "category": "language",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@WoodwardEnglish",
+      "channelId": "UC0kejkXg2LG-pFqAeWD_zLQ",
+      "title": "Woodward English",
+      "category": "language",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@codeorg",
+      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "title": "Code.org",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@MooMooMath",
+      "channelId": "UCE_WiQFez8FZcICpbwblyyg",
+      "title": "MooMooMath and Science",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@ThinkTwiceLtu",
+      "channelId": "UC9yt3wz-6j19RwD5m5f6HSg",
+      "title": "Think Twice",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Hopscotchsongs",
+      "channelId": "UCgM7EYFFz_dba0OIZs5L9kg",
+      "title": "Hopscotch Songs",
+      "category": "math",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@LonelyPlanet",
+      "channelId": "UCPsil91i8gN0XLIbwl3vqsw",
+      "title": "Lonely Planet",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@PBSLearningMediaORG",
+      "channelId": "UCoZCili40vUhAECOq2WzUdQ",
+      "title": "PBS LearningMedia",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@FlocabularyYT",
+      "channelId": "UCOsCwMammtm9TXnE0BMbKzw",
+      "title": "Flocabulary",
+      "category": "history-geo",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Hey-clay",
+      "channelId": "UCGOvG7gyO_APfo7fm0k5Uyw",
+      "title": "HEY CLAY",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@ezcraftsforkids",
+      "channelId": "UCqsXWFEFqKgDPKYXFisgGAA",
+      "title": "Easy Crafts for Kids",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@squashclay",
+      "channelId": "UCrIDehathksmgNEMwsLEpiQ",
+      "title": "Squash Clay",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@FoodFusionKids",
+      "channelId": "UCqpsITAmYlQttezQ7puHwNQ",
+      "title": "Food Fusion Kids",
+      "category": "crafts",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@Takuya_Football_Skills_Coach",
+      "channelId": "UCplP12cCtCl1uqVAMSzLjNw",
+      "title": "Takuya | Football Skills Coach",
+      "category": "sports",
+      "language": "en",
+      "defaultSelected": false
+    },
+    {
+      "type": "channel",
+      "handle": "@KidsBasketballTraining",
+      "channelId": "UCGg_JtthpWHx9worr5UP1Tg",
+      "title": "Kids Basketball Training",
+      "category": "sports",
+      "language": "en",
+      "defaultSelected": false
+    }
+  ]
+}
